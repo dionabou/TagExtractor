@@ -1,0 +1,1 @@
+Computational linguistics is the study of linguistics using computers. It often involves large datasets. Related areas are Natural Language Processing, text-to-speech, etc.
